@@ -118,7 +118,7 @@ include "header.php";
                             </div>
                             <div class="sci">
                                 <a href="https://www.facebook.com/rit.abhi.enjoy.anu?mibextid=ZbWKwL"><i class="fa-brands fa-facebook"></i></a>
-                                <a href=""><i class="fa-brands fa-instagram"></i></a>
+                                <a href="https://www.instagram.com/abhinaba_rit_123/"><i class="fa-brands fa-instagram"></i></a>
                                 <a href="https://github.com/abhinaba29"><i class="fa-brands fa-github"></i></i></a>
                             </div>
                         </div>
